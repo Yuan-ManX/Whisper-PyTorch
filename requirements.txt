@@ -1,0 +1,6 @@
+numpy
+torch
+numba
+tqdm
+more-itertools
+tiktoken
