@@ -1,5 +1,9 @@
 # Whisper PyTorch
 
+<p align="center">
+  <img src="Whisper.png" alt="Whisper" style="display:block; margin:auto; width:750px;" />
+</p>
+
 PyTorch implementation of Whisper.
 
 [Whisper](https://arxiv.org/abs/2212.04356): Robust Speech Recognition via Large-Scale Weak Supervision.
